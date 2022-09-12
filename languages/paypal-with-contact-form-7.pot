@@ -1,0 +1,164 @@
+# Copyright (C) 2022 
+# This file is distributed under the same license as the Paypal with contact form 7 plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Paypal with contact form 7 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/paypal-with-contact-form-7\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-04T13:30:47+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: paypal-with-contact-form-7\n"
+
+#. Plugin Name of the plugin
+msgid "Paypal with contact form 7"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin allows create Addon Paypal With Contact Form 7 plugin."
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:24
+msgid "Paypal"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:30
+#: main/backend/apwcf7-cf7-panel.php:33
+msgid "Use Paypal"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:39
+msgid "Customer Email"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:47
+msgid "Payment Gateway"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:50
+msgid " [payment payment] - Use this custom tag to add payment method option to your form."
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:56
+msgid "PayPal Settings"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:62
+msgid "Use Sandbox"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:70
+msgid "Pay with Paypal Label"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:78
+msgid "PayPal Business Email"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:86
+msgid "Currency"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:171
+msgid "Success Return URL"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:179
+msgid "Cancel Return URL (Optional)"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:188
+msgid "Static Value"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:193
+msgid "Item Description"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:201
+msgid "Item ID / SKU"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:209
+msgid "Custom Amount"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:218
+msgid "Custom Quantity"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:227
+msgid "Tax Fixed Rates"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:232
+msgid "Set a fixed amount,for Example for $0.70 tax,enter 0.70"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:238
+msgid "Discount rates"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:246
+msgid "Dynamic Value"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:247
+msgid "Note: When using Custom Amount and Custom Quantity dynamic values defined below will be ignored, means either use Custom Amount and Custom Quantity for single static product or use multiple products adding details below."
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:328
+msgid "Price"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:329
+msgid "Quantity"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:330
+msgid "Description"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:346
+msgid "Note:"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:346
+msgid "If you want to use radio buttons or select dropdown in form, you can use "
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:346
+msgid "[radio price \"item1-$10--10\" \"item2-$20--20\"]"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:346
+msgid ", in this example "
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:346
+msgid "item1-$10"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:346
+msgid " will be your label and"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:346
+msgid "10"
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:346
+msgid "will be value of radio button elements. simply seperate label and value with "
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:346
+msgid "\"--\""
+msgstr ""
+
+#: main/backend/apwcf7-cf7-panel.php:346
+msgid "seperator."
+msgstr ""
