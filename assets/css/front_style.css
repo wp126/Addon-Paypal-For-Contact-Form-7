@@ -1,0 +1,52 @@
+.apwcf7_body {
+    display: table;
+}
+.apwcf7_row {
+    display: table-row;
+}
+.apwcf7_details_input {
+    min-width: 250px;
+    max-width: 300px;
+    display: table-cell;
+    vertical-align: top;
+    padding: 5px;
+}
+#apwcf7_stripe_credit_card_number,#apwcf7_stripe_credit_card_csv,#apwcf7_stripe_credit_card_expiration,#apwcf7_stripe_credit_card_zip {
+    background: #fbf4f4;
+    border: 1px solid #dcdcdc;
+    padding: .80em;
+    border-radius: 2px;
+}
+#card-errors {
+    color: #eb1c26;
+}
+.apwcf7_stripe .invalid {
+    border-color: #fa755a !important;
+}
+.apwcf7_sandbox {
+    background-color: #80cf4e;
+    color: #ffffff;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    height: 25px;
+    line-height: 25px;
+    padding: 8px;
+}
+
+.apwcf7_npymthd {
+    color: red;
+}
+
+@media only screen and (max-width: 767px) {
+    .apwcf7_body {
+        display: block;
+    }
+    .apwcf7_row {
+        display: block;
+    }
+    .apwcf7_details_input {
+        display: block;
+    }
+}
